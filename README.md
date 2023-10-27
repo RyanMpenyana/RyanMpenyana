@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanMpenyana
 - 👀 I’m interested in Frontend Development
-- 💞️ I’m looking to collaborate on any project , my tech stack is html, css javascript and react  
+- 💞️ I’m looking to collaborate on any project , my tech stack React,javascript and typescript  
 - 📫 How to reach me , mpenyanaryan@gmail.com , ivin@tenxrs.com
 
 <!---
